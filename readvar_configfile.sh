@@ -1,2 +1,2 @@
 #!/bin/bash
-. configfile.txt
+. config.xml
